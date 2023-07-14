@@ -3,4 +3,5 @@ fun main(){
     println("Integer Value : $integer");
     integer.toDouble();
     println("double balue : $integer");
+    var integer2:Int=123;
 }
